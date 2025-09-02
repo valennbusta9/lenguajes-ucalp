@@ -1,1 +1,2 @@
-
+Valentino Bustamante
+Los archivos adjuntados pertenecen a la práctica 1 de lenguajes, donde se nos pide elaborar el juego piedra papel o tijera. En la primera versión el juego no reconoce que gane el mejor de 5 rondas y si hay empate cuenta esa ronda. En la segunda versión se corrigen esos problemas agregando que el jugador que llegue a 3 rondas ganadas primero que el oponente gane el juego y cuando hay empate la ronda se repite hasta que alguno gane.
